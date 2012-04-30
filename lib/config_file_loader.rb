@@ -1,6 +1,7 @@
 require 'erb'
 require 'yaml'
 require 'ostruct'
+
 class ConfigFileLoader
 
   ## base directory for configuration

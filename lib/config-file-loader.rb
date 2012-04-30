@@ -1,1 +1,1 @@
-require File.dirname(__FILE__) + '/config_file_loader'
+require 'config_file_loader'
